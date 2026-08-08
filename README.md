@@ -1,11 +1,17 @@
-Hi, I'm Sakur 👋
+Hi, I'm Abdus Sakur 👋
 
-I'm a Software Engineer from Bangladesh, currently working at NITEX on large-scale systems for fashion supply-chain automation. I build backend services, design production-grade architectures, and work with complex data workflows used by global teams.
+I work at the intersection of **human–computer interaction**, **VR/XR** and
+**applied AI**, on safety-critical systems — how people perceive, trust and act
+on what a machine tells them under time pressure.
 
-I'm now preparing for my higher studies in Computer Science, with growing interests in the intersection of AI, human computer interaction, VR/XR, data and security, with a focus on developing intelligent, trustworthy, and secure cloud-native systems. I am particularly interested in how AI-driven approaches can improve system reliability, automated decision-making, and security in modern computing environments. I am also interested in how VR/XR technologies can leverage scalable AI-enabled infrastructures for training, simulation, and interactive computing experiences.
+I'm currently writing a paper with Dr. Md Mehedi Hasan (AIUB) on direction-aware
+vehicle-to-vehicle crash alerting for low-visibility highway conditions, and
+applying for PhD study for 2027 entry.
 
-### 📌 A Few Useful Links for me
-- [Papers With Code](https://paperswithcode.com)
-- [Distill.pub](https://distill.pub)
-- [Google Research](https://research.google)
-- [MIT OpenCourseWare](https://ocw.mit.edu)
+Before returning to research, I spent four years as a backend engineer — most
+recently Senior Software Engineer at NITEX, building an AI virtual
+try-on pipeline, and before that at TechnoNext on airline safety systems.
+
+🔗 [Website](https://abdussakurr.netlify.app/) ·
+[LinkedIn](https://www.linkedin.com/in/abdus-sakur/) ·
+[CV](https://abdussakurr.netlify.app/Abdus-Sakur-CV.pdf)
