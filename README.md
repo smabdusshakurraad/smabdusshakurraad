@@ -12,6 +12,6 @@ Before returning to research, I spent almost four years as a backend engineer �
 recently a Senior Software Engineer at NITEX, building an AI virtual
 try-on pipeline, and before that at TechnoNext on airline safety systems.
 
-🔗 <[Website](https://abdussakurr.netlify.app/) ·>
+🔗 <! [Website](https://abdussakurr.netlify.app/) >·
 [LinkedIn](https://www.linkedin.com/in/abdus-sakur/) ·
 [CV](https://abdussakurr.netlify.app/Abdus-Sakur-CV.pdf)
